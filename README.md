@@ -1,6 +1,6 @@
 # Airbnb-Data-Analysis-
-Domain : Hospitality
-Skills & Technology : Python scripting, Data Preprocessing, Visualization,EDA, Streamlit, MongoDb, PowerBI or Tableau 
+Domain : Hospitality.
+Skills & Technology : Python scripting, Data Preprocessing, Visualization,EDA, Streamlit, MongoDb, PowerBI or Tableau.
 
 
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. The objectives are to:
